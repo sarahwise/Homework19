@@ -1,0 +1,22 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "react application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahwise/Homework19.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Sarah Wise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahwise/Homework19/issues"
+  },
+  "homepage": "https://github.com/sarahwise/Homework19#readme"
+}
